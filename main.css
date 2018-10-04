@@ -1,0 +1,56 @@
+body {
+    font-family: Georgia, Times, "Times New Roman", sant-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px;
+  }
+  body {
+   background-color: beige; 
+  }
+  h1 {
+    color: white;
+    background-color: teal; 
+      width: 350px;
+      border: 0px;
+      padding: 25px;
+      margin: 70px;
+    
+  }
+  .info {
+    width: 300px;
+    border: 0px;
+    padding: 0px;
+    margin: 90px;
+  }
+  .skills {
+    text-align: left;
+    background-color: teal;
+    width: 300px;
+    border: 25px;
+    padding: 20px;
+    color: white;
+    float: left;
+    
+  }
+  .work {
+    background-color: teal;
+    color: white;
+    border: 25px;
+    padding: 5px 0px 4px 9px;
+    float: right;
+  }
+  .ed {
+    color: white;
+    background-color: teal;
+    padding: 5px, 10px;
+    border: 10px;
+  }
+  .section {
+    width: 100%;
+  }
+  .left-half {
+    background-color: #ff9e2c;
+    float: left;
+    width: 50%;
+  }
